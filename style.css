@@ -174,7 +174,7 @@ nav a:hover, nav a.active{
     }
     section{
         flex-direction: column;
-        justify-content: space-evenly;
+        justify-content: space-between;
         align-items: center;
     }
     .btn-icons{
