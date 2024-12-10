@@ -196,7 +196,7 @@ nav a:hover, nav a.active{
     }
     .home{
         background-size: contain;
-        gap: 3rem;
+        gap: 4rem;
         padding-top: 3.5rem;
     }
     header{
